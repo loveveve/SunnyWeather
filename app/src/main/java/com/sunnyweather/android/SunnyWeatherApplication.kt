@@ -7,7 +7,7 @@ import java.security.AccessControlContext
 
 class SunnyWeatherApplication : Application(){
     companion object{
-        const val TOKEN = "填入你申请到的令牌值"
+        const val TOKEN = "va8x9qUfngqLIQTH"
         @SuppressLint("StaticFieldLeak")
         lateinit var context: Context
     }
